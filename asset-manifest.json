@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https/Zhandeveloper.github.io/website-for-adding-users-on-React/static/css/main.c3d20f47.css",
+    "main.js": "/https/Zhandeveloper.github.io/website-for-adding-users-on-React/static/js/main.c625bcfa.js",
+    "index.html": "/https/Zhandeveloper.github.io/website-for-adding-users-on-React/index.html",
+    "main.c3d20f47.css.map": "/https/Zhandeveloper.github.io/website-for-adding-users-on-React/static/css/main.c3d20f47.css.map",
+    "main.c625bcfa.js.map": "/https/Zhandeveloper.github.io/website-for-adding-users-on-React/static/js/main.c625bcfa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3d20f47.css",
+    "static/js/main.c625bcfa.js"
+  ]
+}
